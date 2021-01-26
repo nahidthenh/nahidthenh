@@ -26,12 +26,12 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 
 ```js
 {
-  Languages: ['JavaScript', 'PHP', 'Python', 'C', 'Java'],
-  Framework: ['NodeJs/Express', 'Laravel'],
-  Frontend: ['ReactJs', 'VueJs'],
-  Databases: ['MongoDB', "SQL"],
-  Tools: ['Vs code', 'Postman', 'MongoDB Compass', 'Trello', 'Slack'],
-  Cloud: ['AWS', 'DigitalOcean'],
+  Languages: ['JavaScript',],
+  Framework: ['Bootstrap', 'Jquery' , 'Materialize'],
+  Frontend: [],
+  Databases: [],
+  Tools: ['Vs code', 'Trello',],
+  Cloud: ['Drive', 'Mega'],
   Open Source: ['Git, GitHub']
 }
 ```
