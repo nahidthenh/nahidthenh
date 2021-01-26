@@ -1,5 +1,7 @@
 ### As-salamu alaykum
 
+Innovative tech mind with 3+ years of experience working as a Frontend Developer. Capable of working with a variety of technology and web applications, and managing databases. Passionate about building world-class web applications. Valuable team member who has experience diagnosing problems and developing solutions. Talented leader with unique ideas and a history of successful contributions in the field.
+
 - 🔭 I’m currently working on DeshiSmash
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on ...
