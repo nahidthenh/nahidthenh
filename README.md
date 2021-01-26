@@ -23,7 +23,7 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="http://www.w3.org/2000/svg"></code> 
+<code><img height="20" src="hhttps://icons.getbootstrap.com/icons/bootstrap-fill/"></code> 
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/174/174854.png"></code> 
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code> 
 
