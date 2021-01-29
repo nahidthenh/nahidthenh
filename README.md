@@ -22,10 +22,23 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="hhttps://icons.getbootstrap.com/icons/bootstrap-fill/"></code> 
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/174/174854.png"></code> 
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code> 
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
+
+**Knowledge of:**
+
+`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+
 
 
 ## {...} My Stack 
