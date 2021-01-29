@@ -2,8 +2,9 @@
 ### As-salamu alaykum
 
 
-
-<a target="_blank" href="#"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
 
 # MD. Nahid Hasan
 
@@ -61,7 +62,6 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidthenh&show_icons=true&theme=dracula)
 
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
