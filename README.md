@@ -37,7 +37,7 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 
 **Knowledge of:**
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive web design`, `PSD To HTML5`, `Camtasia`, `Wondershare Filmora`, `Wordpress Customization`, `MS Office`, `Content Creation`.
 
 
 
