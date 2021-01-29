@@ -57,6 +57,7 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidthenh&show_icons=true&theme=dracula)
 
 <p style="display: flex; justify-contect: space-between;">
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&theme=dracula)
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
