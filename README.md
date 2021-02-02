@@ -60,4 +60,19 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 
 
 
+<a href="https://github.com/tarikmanoar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical&hide=python,shell" />
+</a>
+<a href="https://github.com/tarikmanoar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
+</a>
+
+<a href="https://github.com/tarikmanoar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=html&theme=radical" />
+</a>    
+<a href="https://github.com/tarikmanoar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
+</a>
+
+
 
