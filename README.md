@@ -31,6 +31,9 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
 
 **Knowledge of:**
 
@@ -51,14 +54,6 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 }
 ```
 
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=nahidthenh" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
-
-
-
 
 <a href="https://github.com/nahidthenh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidthenh&theme=radical&hide=python,shell" />
@@ -68,7 +63,7 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 </a>
 
 <a href="https://github.com/nahidthenh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nahidthenh&repo=Wedding-Template&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nahidthenh&repo=Rage-PSD-To-HTML&theme=radical" />
 </a>    
 <a href="https://github.com/nahidthenh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nahidthenh&repo=Wedding-Template&theme=radical" />
