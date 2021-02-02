@@ -55,6 +55,10 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 ```
 
 
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=nahidthenh" />
+</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidthenh&show_icons=true&theme=dracula)
