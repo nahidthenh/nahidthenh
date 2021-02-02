@@ -36,9 +36,6 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 
 `Responsive web design`, `PSD To HTML5`, `Camtasia`, `Wondershare Filmora`, `Wordpress Customization`, `MS Office`, `Content Creation`.
 
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
 
 ## {...} My Stack 
 
@@ -54,11 +51,12 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 }
 ```
 
-
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=nahidthenh" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidthenh&show_icons=true&theme=dracula)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidthenh&show_icons=true&theme=dracula)
