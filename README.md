@@ -11,7 +11,7 @@ Innovative tech mind with 3+ years of experience working as a Frontend Developer
 
 - 🔭 I’m currently working on DeshiSmash
 - 🌱 I’m currently learning JavaScript
-- 🔭 I’m currently contributing on [Onumodito](https://www.onumodito.com/)
+- 🔭 I’m currently contributing on [Nikhoj](https://www.nikhoj.com/)
 - 👯 I’m looking to collaborate on ..
 - 💬 Ask me about [here](https://github.com/nahidthenh/issues)
 - ⚡ Fun fact: I'm Single
