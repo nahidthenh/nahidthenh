@@ -1,73 +1,21 @@
+<h1 align="center">Hi 👋, I'm Md. Nahid Hasan</h1>
+<h3 align="center">A passionate frontend developer from Dhaka , Bangladesh</h3>
 
-### As-salamu alaykum
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidthenh&label=Profile%20views&color=0e75b6&style=flat" alt="nahidthenh" /> </p>
 
-# MD. Nahid Hasan
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidthenh" alt="nahidthenh" /></a> </p>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/nahidthenh/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidthenh@gmail.com)
-
-Innovative tech mind with 3+ years of experience working as a Frontend Developer. Capable of working with a variety of technology and web applications, and managing databases. Passionate about building world-class web applications. Valuable team member who has experience diagnosing problems and developing solutions. Talented leader with unique ideas and a history of successful contributions in the field.
-
-
-- 🔭 I’m currently working on DeshiSmash
-- 🌱 I’m currently learning JavaScript
-- 🔭 I’m currently contributing on [Nikhoj](https://www.nikhoj.com/)
-- 👯 I’m looking to collaborate on ..
-- 💬 Ask me about [here](https://github.com/nahidthenh/issues)
-- ⚡ Fun fact: I'm Single
-
-**Languages and Tools:**  
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nahidthenh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahidthenh" height="30" width="40" /></a>
+<a href="https://fb.com/nahidthenh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahidthenh" height="30" width="40" /></a>
+<a href="https://instagram.com/nahidthenh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahidthenh" height="30" width="40" /></a>
 </p>
 
-**Knowledge of:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-`Responsive web design`, `PSD To HTML5`, `Camtasia`, `Wondershare Filmora`, `Wordpress Customization`, `MS Office`, `Content Creation`.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidthenh&show_icons=true&locale=en&layout=compact" alt="nahidthenh" /></p>
 
-
-## {...} My Stack 
-
-```js
-{
-  Languages: ['JavaScript',],
-  Framework: ['Bootstrap', 'Jquery' , 'Materialize'],
-  Frontend: [],
-  Databases: [],
-  Tools: ['Vs code', 'Trello',],
-  Cloud: ['Drive', 'Mega'],
-  Open Source: ['Git, GitHub']
-}
-```
-
-
-<a href="https://github.com/nahidthenh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidthenh&theme=radical&hide=python,shell" />
-</a>
-<a href="https://github.com/nahidthenh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
-</a>
-
-<a href="https://github.com/nahidthenh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nahidthenh&repo=Rage-PSD-To-HTML&theme=radical" />
-</a>    
-<a href="https://github.com/nahidthenh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nahidthenh&repo=Wedding-Template&theme=radical" />
-</a>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&locale=en" alt="nahidthenh" /></p>
 
