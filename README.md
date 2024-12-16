@@ -4,13 +4,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nahidthenh&label=Profile%20views&color=0e75b6&style=flat)
 
-I am an experienced **Software Quality Assurance (SQA) Engineer** and **Front-End Developer** with a passion for delivering high-quality software solutions. With a strong background in **manual testing**, **Playwright automation**, and **front-end development**, I strive to create seamless and user-friendly interfaces. Based in Dhaka, Bangladesh, I enjoy bridging the gap between development and testing, ensuring the delivery of reliable and efficient products.
-
-### My Top Languages and GitHub Streak
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidthenh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidthenh&" alt="GitHub Streak" width="45%" />
+<div style="display: flex; justify-content: center; gap: 10px; background-color: #333333; padding: 10px 0; border-radius: 10px;">
+    <a href="https://www.linkedin.com/in/nahidthenh" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #0077B5; color: white; border-radius: 5px; font-size: 16px;">LinkedIn</a>
+    <a href="https://www.github.com/nahidthenh" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #333; color: white; border-radius: 5px; font-size: 16px;">GitHub</a>
+    <a href="https://mdnahidhasan.vercel.app/" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #000; color: white; border-radius: 5px; font-size: 16px;">Portfolio</a>
 </div>
 
 ## About Me
@@ -56,6 +53,13 @@ For more details about my experience, skills, and projects, feel free to downloa
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidthenh)  
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/nahidthenh)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=white)](https://mdnahidhasan.vercel.app/)
+### My Top Languages and GitHub Streak
+
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidthenh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidthenh&" alt="GitHub Streak" width="45%" />
+</div>
+
+---
+
+
