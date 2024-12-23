@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Nahid Hasan 👋</h1>
 
-<h3 align="center">A Software Quality Assurance (SQA) Engineer & Front-End Developer from Dhaka, Bangladesh 🇧🇩 </h3>
+<h3 align="center"> QA professional with front-end skills and project management insight - from Dhaka, Bangladesh 🇧🇩 </h3>
 <br/>
 <div align="center">
 
