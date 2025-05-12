@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Nahid Hasan 👋</h1>
+<h1 align="center">Hi There, I'm Md. Nahid Hasan 👋</h1>
 
 <h3 align="center"> QA professional with front-end skills and project management insight - from Dhaka, Bangladesh 🇧🇩 </h3>
 <br/>
@@ -26,7 +26,7 @@
 
 ## About Me
 
-A results-driven professional with over 1 year of experience as a Junior Software Test Engineer and 3 years of expertise in front-end development. Skilled in manual testing, Playwright automation, active involvement in product release planning, and creating user-friendly interfaces using modern frameworks. I am adept at bridging the gap between development and testing to ensure seamless product delivery, ensuring high-quality software solutions while enhancing the user experience.
+A results-driven professional with over 1.5+ year of experience as a Junior Software Test Engineer and 3 years of expertise in front-end development. Skilled in manual testing, Playwright automation, active involvement in product release planning, and creating user-friendly interfaces using modern frameworks. I am adept at bridging the gap between development and testing to ensure seamless product delivery, ensuring high-quality software solutions while enhancing the user experience.
 
 ## Experience
 
