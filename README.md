@@ -12,7 +12,7 @@
    <a href="https://www.linkedin.com/in/nahidthenh">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-   <a href="https://mdnahidhasan.vercel.app/">
+   <a href="https://mdnahidhasan.com/">
      <img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio Badge"/>
    </a>
 
@@ -26,12 +26,13 @@
 
 ## About Me
 
-A results-driven professional with over 1.5+ year of experience as a Junior Software Test Engineer and 3 years of expertise in front-end development. Skilled in manual testing, Playwright automation, active involvement in product release planning, and creating user-friendly interfaces using modern frameworks. I am adept at bridging the gap between development and testing to ensure seamless product delivery, ensuring high-quality software solutions while enhancing the user experience.
+Software Test Engineer with 2+ years in manual testing, Playwright automation, and release planning, backed by 3+ years of front-end development experience in UI/UX, test execution, and defect management. I integrate AI into the QA workflow using LLM-assisted test case generation, AI-driven exploratory testing, intelligent defect triage, and prompt engineering to accelerate coverage and shorten release cycles. Focused on building automation pipelines that pair Playwright with AI tooling to deliver high-quality, reliable software at scale.
 
 ## Experience
 
-### Junior Software Test Engineer at [Startise](https://startise.com/)
+### Software Test Engineer at [Startise](https://startise.com/)
 *January 2, 2024 - Present*  
+- AI-assisted testing and workflow automation
 - Ensured software quality through manual testing and Playwright automation.  
 - Actively contributed to product release planning.  
 - Developed and executed detailed test plans, identified defects, and collaborated with developers to resolve issues promptly.  
@@ -52,20 +53,12 @@ A results-driven professional with over 1.5+ year of experience as a Junior Soft
 ## Education
 
 ### Southeast University
-*November 5, 2021 - Present*  
+*November 5, 2021 - 2025*  
 Bachelor of Science in Computer Science and Engineering (BSc in CSE).
 
 ### Jessore Polytechnic Institute
 *August 16, 2016 — 2020*  
 Diploma in Computer Engineering.
-
-## 📄 Download My CV
-
-For more details about my experience, skills, and projects, feel free to download my CV:
-
-[Download CV](https://docs.google.com/document/d/1RqhcloQ2NkEc9BtR8IlTtKlGWdhjTPrpyHLXuLYsREA/edit?tab=t.0)
-
----
 
 ### My Top Languages and GitHub Streak
 
