@@ -8,13 +8,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-    <img src="assets/banner-light.svg" alt="Md. Nahid Hasan — Software Test Engineer, QA Automation" width="100%" />
+    <img src="assets/banner-light.svg" alt="Md. Nahid Hasan — Software Test Engineer | QA Automation with Playwright, Docker &amp; AI-assisted testing | Dhaka, Bangladesh" width="100%" />
   </picture>
 </div>
 
 <div align="center">
 
-![Contribution graph](gitartwork.svg)
+![Md. Nahid Hasan GitHub contribution graph — Software Test Engineer and QA automation activity](gitartwork.svg)
 
 </div>
 
@@ -124,12 +124,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidthenh&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Md. Nahid Hasan GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidthenh&layout=compact&hide_border=true&theme=tokyonight" alt="Md. Nahid Hasan most-used programming languages — TypeScript, JavaScript" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidthenh&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidthenh&hide_border=true&theme=tokyonight" alt="Md. Nahid Hasan GitHub contribution streak" />
 </div>
 
 ---
