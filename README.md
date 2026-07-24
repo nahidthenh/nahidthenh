@@ -7,12 +7,6 @@
 </div>
 
 <div align="center">
-
-![Md. Nahid Hasan GitHub contribution graph — Software Test Engineer and QA automation activity](gitartwork.svg)
-
-</div>
-
-<div align="center">
   <a href="https://mdnahidhasan.com/">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" />
   </a>
@@ -31,24 +25,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🧪 **Software Test Engineer at [WPDeveloper](https://wpdeveloper.com/)** — I own end-to-end quality for WordPress products including Essential Addons for Elementor, EmbedPress, SchedulePress, and ThinkRank.
-- ⚙️ I maintain **330+ automated E2E specs** across five products with **Playwright + Docker**, running in **GitHub Actions** with Slack alerts on failure.
-- 🤖 I bring **AI tooling into the QA workflow** — LLM-assisted test generation, prompt engineering, and AI-driven exploratory testing — to expand coverage and shorten release cycles.
-- 🎨 **3+ years of prior front-end development**, which sharpens my eye for UI defects and root-causing test failures.
-- 📚 I write a **QA Knowledge Base** on [mdnahidhasan.com](https://mdnahidhasan.com/) covering manual testing, Playwright, API testing, the STLC, and AI-assisted QA.
-- 📫 Reach me at **mail.mdnahidhasan@gmail.com**
+- **Software Test Engineer at [WPDeveloper](https://wpdeveloper.com/)** — I own end-to-end quality for WordPress products including Essential Addons for Elementor, EmbedPress, SchedulePress, and ThinkRank.
+- I maintain **330+ automated E2E specs** across five products with **Playwright + Docker**, running in **GitHub Actions** with Slack alerts on failure.
+- I bring **AI tooling into the QA workflow** — LLM-assisted test generation, prompt engineering, and AI-driven exploratory testing — to expand coverage and shorten release cycles.
+- **3+ years of prior front-end development**, which sharpens my eye for UI defects and root-causing test failures.
+- I write a **QA Knowledge Base** on [mdnahidhasan.com](https://mdnahidhasan.com/) covering manual testing, Playwright, API testing, the STLC, and AI-assisted QA.
+- Reach me at **mail.mdnahidhasan@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Testing & Automation**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/E2E%20Testing-15C213?style=for-the-badge&logo=testcafe&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E%20Testing-15C213?style=for-the-badge&logo=testcafe&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API%20Testing-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Languages**
@@ -76,7 +70,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -88,7 +82,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Test Engineer** — [WPDeveloper](https://wpdeveloper.com/) · *Jan 2024 – Present*
 - Own end-to-end quality for Essential Addons for Elementor, EmbedPress, SchedulePress, and ThinkRank.
@@ -105,17 +99,17 @@
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- 🎓 **B.Sc. in Computer Science &amp; Engineering** — Southeast University (in progress)
-- 🎓 **Diploma in Computer Engineering** — Jessore Polytechnic Institute (2020)
-- 📜 **SQA: Manual &amp; Automated Testing** — Ostad
-- 📜 **JavaScript Fundamentals** — Bondar Academy · **Complete Web Development** — Programming Hero
-- 📜 **WordPress Complete Website MasterClass** — Udemy · **Responsive Web Design** — Sololearn
+- **B.Sc. in Computer Science &amp; Engineering** — Southeast University (in progress)
+- **Diploma in Computer Engineering** — Jessore Polytechnic Institute (2020)
+- **SQA: Manual &amp; Automated Testing** — Ostad
+- **JavaScript Fundamentals** — Bondar Academy · **Complete Web Development** — Programming Hero
+- **WordPress Complete Website MasterClass** — Udemy · **Responsive Web Design** — Sololearn
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Md. Nahid Hasan GitHub stats" />
@@ -128,4 +122,4 @@
 
 ---
 
-<p align="center"><i>🌐 English (Professional) · Bangla (Native) — open to QA automation collaboration and conversations.</i></p>
+<p align="center"><i>English (Professional) · Bangla (Native) — open to QA automation collaboration and conversations.</i></p>
