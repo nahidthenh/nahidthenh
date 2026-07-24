@@ -109,17 +109,4 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahidthenh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Md. Nahid Hasan GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidthenh&layout=compact&hide_border=true&theme=tokyonight" alt="Md. Nahid Hasan most-used programming languages — TypeScript, JavaScript" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidthenh&hide_border=true&theme=tokyonight" alt="Md. Nahid Hasan GitHub contribution streak" />
-</div>
-
----
-
 <p align="center"><i>English (Professional) · Bangla (Native) — open to QA automation collaboration and conversations.</i></p>
