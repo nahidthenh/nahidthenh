@@ -1,9 +1,3 @@
-<h1 align="center">Hi there, I'm Md. Nahid Hasan 👋</h1>
-
-<h3 align="center">Software Test Engineer · QA Automation · Playwright + Docker · AI-Assisted QA</h3>
-
-<p align="center">📍 Dhaka, Bangladesh 🇧🇩 &nbsp;·&nbsp; Building reliable QA pipelines for WordPress &amp; SaaS products</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
