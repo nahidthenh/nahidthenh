@@ -5,8 +5,16 @@
 <p align="center">📍 Dhaka, Bangladesh 🇧🇩 &nbsp;·&nbsp; Building reliable QA pipelines for WordPress &amp; SaaS products</p>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+    <img src="assets/banner-light.svg" alt="Md. Nahid Hasan — Software Test Engineer, QA Automation" width="100%" />
+  </picture>
+</div>
 
-![Nahid](gitartwork.svg)
+<div align="center">
+
+![Contribution graph](gitartwork.svg)
 
 </div>
 
